@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "pybetsapi"
+  site-url: "https://cswaters.github.io/pybetsapi"
+  description: "Simple python wraper for the betsapi events api."
+  repo-branch: main
+  repo-url: "https://github.com/cswaters/pybetsapi"
